@@ -1,0 +1,8 @@
+aiohttp
+git+https://github.com/andrsodremiranda/Azul-Groove-RPC.git
+PySimpleGUI==4.70.1
+psgtray
+tornado
+pyinstaller
+psutil
+emoji
