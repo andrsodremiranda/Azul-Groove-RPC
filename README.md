@@ -1,6 +1,4 @@
-Aqui está um modelo de README para o *Azul-Groove-RPC*:
 
----
 
 # **Azul-Groove-RPC**
 
