@@ -1,4 +1,6 @@
+Aqui está o README atualizado com a frase sobre os direitos reservados:
 
+---
 
 # **Azul-Groove-RPC**
 
@@ -14,8 +16,10 @@
 ## **Configuração Inicial**
 
 1. Abra o aplicativo *Azul-Groove-RPC*.
-2. Vá para **Socket Settings**.
-3. Clique em **Adicionar** e cole a seguinte chave para se conectar ao servidor:
+2. No Discord, use o comando **/rich_presence** para gerar seu token de acesso.
+3. Copie o token gerado e vá até **Socket Settings** no aplicativo.
+4. Cole o token de acesso no campo adequado em **Socket Settings**.
+5. Clique em **Adicionar** e cole a seguinte chave para se conectar ao servidor:
 
 ```
 wss://gleaming-brindle-braid.glitch.me/ws
@@ -34,8 +38,6 @@ Com esses itens, você pode abrir o código-fonte, fazer alterações e personal
 
 ---
 
-Este é um guia simples e direto para baixar, configurar e modificar o *Azul-Groove-RPC*. Se tiver alguma dúvida ou precisar de ajuda adicional, consulte o repositório ou entre em contato com a comunidade.
+**Todos os direitos reservados para ASTM Software.**
 
 ---
-
-Esse README inclui tudo o que é necessário para quem quer baixar e configurar o *Azul-Groove-RPC*, além de fornecer as orientações para quem deseja modificar o código.
