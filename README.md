@@ -4,10 +4,18 @@
 
 ## **Como Baixar e Instalar**
 
+### Método Tradicional (ZIP)
 1. Acesse a [página de lançamentos do Azul-Groove-RPC](https://github.com/andrsodremiranda/Azul-Groove-RPC/releases).
 2. Faça o download do arquivo **Azul-Groove-RPC-14.0.zip**.
 3. Extraia o conteúdo do arquivo compactado.
 4. Execute o arquivo **musicbot_rpc.exe**. O aplicativo será iniciado e poderá ser minimizado para a bandeja do Windows, rodando em segundo plano.
+
+### Novo Método via Instalador de Programa do Windows
+1. Acesse a [página de lançamentos do Azul-Groove-RPC](https://github.com/andrsodremiranda/Azul-Groove-RPC/releases).
+2. Faça o download do arquivo **Azul-Groove-RPC.exe**.
+3. Execute o instalador e clique em "Criar ícone na área de trabalho".
+4. Após a instalação, clique no aplicativo para iniciá-lo.
+
 
 ## **Configuração Inicial**
 
