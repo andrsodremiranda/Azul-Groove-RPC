@@ -1,49 +1,41 @@
-Licença de Uso do Bot Azul Groove
+ **Licença de Uso – Azul-Groove-RPC**  
+**Copyright © 2019-2025 ASTM Software. Todos os direitos reservados.**  
 
-Copyright © 2019-2025 ASTM Software. Todos os direitos reservados. Atenção: Ao usar o bot Azul Groove, você concorda com os termos e condições descritos nesta licença.
+**Atenção:** Ao utilizar o **Azul-Groove-RPC**, você concorda com os termos e condições descritos nesta licença.  
 
-1. Concessão de Licença
-A ASTM Software concede a você uma licença limitada, não exclusiva e intransferível para usar o bot do Discord, Azul Groove (doravante denominado “Bot”), sujeito às condições estabelecidas neste documento. Esta licença é concedida exclusivamente para uso pessoal e não comercial.
+## **1. Concessão de Licença**  
+A ASTM Software concede a você uma licença limitada, não exclusiva e intransferível para usar o aplicativo **Azul-Groove-RPC** (doravante denominado “Aplicativo”), conforme as condições estabelecidas neste documento. Esta licença é exclusivamente para uso pessoal e não comercial.  
 
-2. Uso Permitido
-Você pode utilizar o Bot para funções próprias do seu propósito, como interação com comandos de música, visualização de conteúdo e recursos relacionados, conforme descrito nas funcionalidades do Bot.
+## **2. Uso Permitido**  
+Você pode utilizar o Aplicativo para integrar o Discord com o Rich Presence e exibir atividades personalizadas dentro da plataforma. O uso deve estar em conformidade com as funcionalidades descritas oficialmente pela ASTM Software.  
 
-3. Restrições de Uso
-Não é permitido usar o Bot para fins ilegais ou atividades que violem os direitos de propriedade intelectual da ASTM Software ou de terceiros.
-Não é permitido modificar, distribuir, sublicenciar, alugar ou vender o código-fonte do Bot ou qualquer parte dele.
-Não é permitido usar o Bot para praticar spam, enviar mensagens não solicitadas ou interferir no funcionamento do Bot ou de qualquer outro serviço.
-Não é permitido explorar falhas de segurança ou vulnerabilidades do Bot para ganho pessoal ou prejudicar outros usuários.
+## **3. Restrições de Uso**  
+- Não é permitido utilizar o Aplicativo para fins ilegais ou que violem direitos de propriedade intelectual da ASTM Software ou de terceiros.  
+- Não é permitido modificar, distribuir, sublicenciar, alugar ou vender o código-fonte do Aplicativo.  
+- Não é permitido explorar falhas ou vulnerabilidades do Aplicativo para ganho pessoal ou para prejudicar outros usuários.  
+- O uso indevido do Aplicativo pode resultar em bloqueio ou suspensão do acesso, conforme avaliação da ASTM Software.  
 
-4. Direitos Autorais e Propriedade Intelectual
-O código-fonte do Bot, incluindo seus scripts, recursos e funcionalidades, é de propriedade exclusiva da ASTM Software. Todos os direitos autorais, patentes, marcas registradas e outros direitos de propriedade intelectual relacionados ao Bot pertencem à ASTM Software.
-Copyright © 2019-2025 ASTM Software. Todos os direitos reservados.
-O uso não autorizado, a modificação, a cópia ou a distribuição do código-fonte é estritamente proibido.
+## **4. Propriedade Intelectual**  
+O código-fonte do Aplicativo, incluindo seus scripts, recursos e funcionalidades, é propriedade exclusiva da ASTM Software. Qualquer cópia, modificação ou distribuição não autorizada é estritamente proibida.  
 
-5. Licenciamento de Modificações
-Qualquer modificação ou personalização feita no Bot deve ser realizada de acordo com as permissões definidas pela ASTM Software.
-O uso do App Rich Presence é permitido para modificações, mas apenas as versões oficiais do Bot terão suporte técnico.
+## **5. Modificações e Personalizações**  
+O uso do **Azul-Groove-RPC** pode ser personalizado dentro dos limites permitidos pela ASTM Software. Versões modificadas não são oficialmente suportadas.  
 
-6. Limitação de Responsabilidade
-A ASTM Software não será responsável por qualquer dano, perda de dados ou outros problemas que possam surgir devido ao uso do Bot. O Bot é fornecido "no estado em que se encontra", e a ASTM Software não oferece garantias quanto à precisão, confiabilidade ou disponibilidade contínua do serviço.
-A ASTM Software não se responsabiliza por falhas ou problemas nos servidores do Lavalink, que são de responsabilidade de seus próprios provedores. Caso ocorra alguma interrupção nos servidores do Lavalink, o Bot poderá ficar temporariamente indisponível.
+## **6. Limitação de Responsabilidade**  
+A ASTM Software não se responsabiliza por quaisquer danos, perda de dados ou falhas decorrentes do uso do Aplicativo. O software é fornecido "no estado em que se encontra", sem garantias de funcionamento contínuo.  
 
-7. Alterações na Licença
-A ASTM Software pode alterar esta licença a qualquer momento. Quaisquer mudanças serão publicadas nesta página, e ao continuar usando o Bot, você concorda com os termos revisados.
+## **7. Alterações na Licença**  
+A ASTM Software pode modificar esta licença a qualquer momento. As alterações serão publicadas oficialmente, e ao continuar usando o Aplicativo, você concorda com os novos termos.  
 
-8. Termos de Suporte
-O suporte deve ser solicitado de forma responsável e respeitosa. Evite abrir chamados desnecessários, pois a maioria dos erros comuns pode ser resolvida através do formulário de suporte. A ASTM Software se reserva o direito de não fornecer suporte a casos de uso inadequado ou violação dos termos de uso.
+## **8. Privacidade**  
+A ASTM Software respeita sua privacidade. Para detalhes sobre coleta e uso de dados, consulte nossa **Política de Privacidade**.  
 
-9. Termos de Privacidade
-A ASTM Software se compromete a proteger sua privacidade. Para informações detalhadas sobre como seus dados são coletados e utilizados, consulte nossa Política de Privacidade aqui.
+## **9. Suporte e Contato**  
+O suporte ao Aplicativo deve ser solicitado de maneira responsável. Para dúvidas, entre em contato pelo e-mail **corporationastm@gmail.com**.  
 
-10. Contato
-Se você tiver dúvidas sobre esta licença ou precisar de mais informações, entre em contato conosco através do e-mail: corporationastm@gmail.com.
+## **10. Bibliotecas de Terceiros**  
+O **Azul-Groove-RPC** utiliza bibliotecas de terceiros sob suas respectivas licenças. A ASTM Software não reivindica propriedade sobre essas ferramentas.  
 
-11. Atualizações e Manutenção
-As atualizações são geralmente implementadas durante a noite, mas em casos urgentes, podem ser feitas a qualquer momento. Durante o processo de atualização, o bot ficará temporariamente offline, mas suas atividades serão salvas e o bot retornará ao funcionamento automaticamente assim que a atualização for concluída, o que geralmente demora menos de 10 minutos.
+---  
 
-12. Suporte
-O suporte deve ser solicitado de forma responsável e respeitosa. Evite abrir chamados desnecessários, pois a maioria dos erros comuns pode ser resolvida através do formulário de suporte. A ASTM Software se reserva o direito de não fornecer suporte a casos de uso inadequado ou violação dos termos de uso.
-
-13. Bibliotecas de Terceiros
-Este bot utiliza bibliotecas de terceiros, como Python, Lavalink e Disnake, sob suas respectivas licenças. A ASTM Software não reivindica propriedade sobre essas ferramentas.
+Se precisar de ajustes ou quiser adicionar algo específico, me avise! 😊
