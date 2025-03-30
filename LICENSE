@@ -1,52 +1,74 @@
-Licença de Uso – Azul-Groove-RPC
+Licença de Uso do Azul Groove RPC
+© 2019-2025 ASTM Software. Todos os direitos reservados.
 
-Copyright © 2019-2025 ASTM Software. Todos os direitos reservados.
+Atenção: Ao utilizar o Azul Groove RPC, você concorda com os termos e condições descritos nesta licença.
 
-Atenção: Ao utilizar o Azul-Groove-RPC, você concorda com os termos e condições descritos nesta licença.
+1. Concessão de Licença 
 
-1. Concessão de Licença
+A ASTM Software concede a você uma licença limitada, não exclusiva e intransferível para utilizar o Azul Groove RPC, conforme os termos estabelecidos neste documento. Essa licença é concedida exclusivamente para uso pessoal e não comercial.
 
-A ASTM Software concede a você uma licença limitada, não exclusiva e intransferível para usar o aplicativo Azul-Groove-RPC (doravante denominado “Aplicativo”), conforme as condições estabelecidas neste documento. Esta licença é exclusivamente para uso pessoal e não comercial.
+2. Uso Permitido 
 
-2. Uso Permitido
+O usuário pode utilizar o Azul Groove RPC exclusivamente para suas funcionalidades previstas, incluindo, mas não se limitando a:
 
-Você pode utilizar o Aplicativo para integrar o Discord com o Rich Presence e exibir atividades personalizadas dentro da plataforma. O uso deve estar em conformidade com as funcionalidades descritas oficialmente pela ASTM Software.
+Exibir status e atividades no Discord via Rich Presence; Personalizar informações dentro das permissões fornecidas pela ASTM Software; Utilizar recursos conforme documentação oficial sem violação dos termos. 3. Restrições de Uso 
 
-3. Restrições de Uso
+O usuário não está autorizado a:
 
-Não é permitido utilizar o Aplicativo para fins ilegais ou que violem direitos de propriedade intelectual da ASTM Software ou de terceiros.
+Utilizar o Azul Groove RPC para fins ilegais ou para violar direitos de propriedade intelectual da ASTM Software ou de terceiros; Modificar, distribuir, sublicenciar, alugar, vender ou reverter a engenharia do código-fonte do Azul Groove RPC, exceto conforme previsto no artigo 5; Utilizar o Azul Groove RPC para envio de spam, mensagens não solicitadas ou interferir no funcionamento do serviço ou de outros usuários; Explorar falhas, brechas de segurança ou vulnerabilidades do Azul Groove RPC para obter vantagens indevidas ou prejudicar terceiros. 4. Direitos Autorais e Propriedade Intelectual 
 
-Não é permitido modificar, distribuir, sublicenciar, alugar ou vender o código-fonte do Aplicativo.
+O código-fonte, scripts, recursos e funcionalidades do Azul Groove RPC são de propriedade exclusiva da ASTM Software. Todos os direitos autorais, marcas registradas, patentes e outros direitos de propriedade intelectual pertencem à ASTM Software.
 
-Não é permitido explorar falhas ou vulnerabilidades do Aplicativo para ganho pessoal ou para prejudicar outros usuários.
+Qualquer cópia, modificação, redistribuição ou uso não autorizado do código-fonte do Azul Groove RPC é expressamente proibido, exceto conforme previsto no artigo 5.
 
-O uso indevido do Aplicativo pode resultar em bloqueio ou suspensão do acesso, conforme avaliação da ASTM Software.
+5. Licenciamento de Modificações 
 
-4. Propriedade Intelectual
+Modificações e personalizações do Azul Groove RPC só podem ser feitas conforme as permissões concedidas pela ASTM Software.
 
-O código-fonte do Aplicativo, incluindo seus scripts, recursos e funcionalidades, é propriedade exclusiva da ASTM Software. Qualquer cópia, modificação ou distribuição não autorizada é estritamente proibida.
+Modificações privadas são permitidas, desde que não violem os direitos de propriedade intelectual da ASTM Software. Modificações públicas são permitidas desde que não removam os créditos da ASTM Software e respeitem os termos estabelecidos nesta licença. Uso comercial não é permitido sob nenhuma circunstância. 
 
-5. Modificações e Personalizações
+O uso do App Rich Presence é permitido para modificações, porém apenas as versões oficiais do Azul Groove RPC contarão com suporte técnico.
 
-O uso do Azul-Groove-RPC pode ser personalizado dentro dos limites permitidos pela ASTM Software. Versões modificadas não são oficialmente suportadas.
+Versões modificadas ou personalizadas podem ter suporte limitado ou não receber suporte. A ASTM Software não se responsabiliza por versões não oficiais. Regras adicionais para modificações: Modificações não devem comprometer a segurança ou estabilidade do Azul Groove RPC. Versões personalizadas não podem ser distribuídas sem autorização da ASTM Software. O uso de partes do código do Azul Groove RPC em outros projetos deve ser previamente autorizado pela ASTM Software. 6. Limitação de Responsabilidade 
 
-6. Limitação de Responsabilidade
+A ASTM Software não se responsabiliza por danos, perdas de dados ou quaisquer problemas decorrentes do uso do Azul Groove RPC.
 
-A ASTM Software não se responsabiliza por quaisquer danos, perda de dados ou falhas decorrentes do uso do Aplicativo. O software é fornecido "no estado em que se encontra", sem garantias de funcionamento contínuo.
+O Azul Groove RPC é fornecido "no estado em que se encontra", sem garantias explícitas ou implícitas de funcionamento contínuo, precisão ou confiabilidade.
 
-7. Alterações na Licença
+A ASTM Software não se responsabiliza por falhas nos servidores do Lavalink, que são operados por terceiros. Caso haja interrupções nesses servidores, o Azul Groove RPC poderá ficar temporariamente indisponível.
 
-A ASTM Software pode modificar esta licença a qualquer momento. As alterações serão publicadas oficialmente, e ao continuar usando o Aplicativo, você concorda com os novos termos.
+7. Alterações na Licença 
 
-8. Privacidade
+A ASTM Software se reserva o direito de alterar esta licença a qualquer momento. Quaisquer mudanças serão publicadas nesta página. O uso contínuo do Azul Groove RPC após alterações significa a aceitação dos novos termos.
 
-A ASTM Software respeita sua privacidade. Para detalhes sobre coleta e uso de dados, consulte nossa Política de Privacidade.
+8. Termos de Suporte 
 
-9. Suporte e Contato
+O suporte deve ser solicitado de maneira responsável e respeitosa.
 
-O suporte ao Aplicativo deve ser solicitado de maneira responsável. Para dúvidas, entre em contato pelo e-mail corporationastm@gmail.com.
+Chamados desnecessários devem ser evitados, pois muitos erros comuns podem ser resolvidos através do formulário de suporte.
 
-10. Bibliotecas de Terceiros
+A ASTM Software não fornecerá suporte para usuários que tenham violado os termos de uso do Azul Groove RPC.
 
-O Azul-Groove-RPC utiliza bibliotecas de terceiros sob suas respectivas licenças. A ASTM Software não reivindica propriedade sobre essas ferramentas.
+9. Política de Privacidade 
 
+A ASTM Software se compromete a proteger sua privacidade. Para detalhes sobre como os dados são coletados e utilizados, consulte nossa Política de Privacidade.
+
+10. Contato 
+
+Dúvidas sobre esta licença ou solicitações adicionais podem ser enviadas para:
+
+E-mail: corporationastm@gmail.com 11. Atualizações e Manutenção 
+
+As atualizações do Azul Groove RPC são implementadas geralmente durante a noite.
+
+Em casos urgentes, atualizações podem ocorrer a qualquer momento, e o Azul Groove RPC poderá ficar temporariamente offline.
+
+O tempo médio para a conclusão de atualizações é de menos de 10 minutos, e as atividades do Azul Groove RPC serão restauradas automaticamente após a conclusão.
+
+12. Bibliotecas de Terceiros 
+
+O Azul Groove RPC utiliza bibliotecas e ferramentas de terceiros, incluindo, mas não se limitando a:
+
+Python Lavalink Disnake 
+
+Essas ferramentas operam sob suas respectivas licenças, e a ASTM Software não oferece suporte para erros ou falhas relacionadas a elas.
