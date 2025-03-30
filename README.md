@@ -1,6 +1,6 @@
 # **Azul-Groove-RPC**
 
-**Azul-Groove-RPC** é uma ferramenta para integrar seu bot de música com o Discord, proporcionando uma experiência personalizada e otimizada. Siga as instruções abaixo para baixar e configurar o aplicativo no seu sistema.
+**Azul-Groove-RPC** é uma ferramenta para integrar seu bot de música[Azul (https://discord.com/oauth2/authorize?client_id=1107120892472983603&scope=bot&permissions=332892794064). com o Discord, proporcionando uma experiência personalizada e otimizada. Siga as instruções abaixo para baixar e configurar o aplicativo no seu sistema.
 
 ## **Como Baixar e Instalar**
 
